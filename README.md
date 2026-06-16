@@ -50,6 +50,8 @@ Can statistical learning and high-dimensional modeling techniques identify meani
 6. Cluster Evaluation
 7. Customer Profiling and Dashboard Development
 
+Exploratory analysis revealed substantial concentration in customer activity and spending behavior. The most active customer generated over 20,000 transactions, while total customer spending ranged from negative balances associated with returns to over £204,000. Sales distributions exhibited strong positive skewness, and customer purchasing behavior was heavily concentrated within the United Kingdom. These findings provide strong evidence for latent customer segments and motivate the application of dimensionality reduction and clustering techniques.
+
 ---
 
 ## Project Status
